@@ -12,7 +12,6 @@
 (menu-bar-mode -1)
 (scroll-bar-mode -1)
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
-
 ;; Requires
 (defun requires ()
   "Just a little way to define all the requires."
