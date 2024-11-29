@@ -170,7 +170,6 @@
   (interactive)
   (shrink-window (round (* (window-width) .1)) t))
 
-
 ;; Keybindings
 ;;(keymap-global-set (
 (defun keymaps ()
